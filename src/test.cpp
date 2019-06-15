@@ -1,4 +1,7 @@
+#include <iostream>
+#include "hello.h"
+
 int main()
 {
-    return 0;
+    hello::say_hello();
 }

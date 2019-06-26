@@ -2,7 +2,7 @@
 
 # This script invokes CMake with Ninja for Clang
 
-CMAKE_INTERMEDIATE_DIR="../../sample_build/clang/cmake"
+CMAKE_INTERMEDIATE_DIR="../../build/sample/clang/cmake"
 
 # Rerun CMake explicitly only when cache is not setup
 # Also, make sure that commands for rtags are created
